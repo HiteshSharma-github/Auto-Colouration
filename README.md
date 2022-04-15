@@ -1,8 +1,6 @@
 #  Image Colorization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
-### [[Paper](https://arxiv.org/abs/2005.10825)] [[Project Website](https://ericsujw.github.io/InstColorization/)] [[Google Colab](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)]
-
 <p align='center'>
 <img src='imgs/teaser.png' width=1000>
 </p>
@@ -62,8 +60,6 @@ All the colorized results would save in `results` folder.
 
 * Note: all the images would convert into L channel to colorize in [test_fusion.py's L51](test_fusion.py#L51)
 
-## Training the Model
-Please follow this [tutorial](README_TRAIN.md) to train the colorization model.
 
 ## Acknowledgments
-Our code borrows heavily from the amazing [colorization-pytorch](https://github.com/richzhang/colorization-pytorch) repository.
+My code borrows heavily from the amazing [colorization-pytorch](https://github.com/richzhang/colorization-pytorch) repository.
