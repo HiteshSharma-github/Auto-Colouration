@@ -20,7 +20,7 @@ Image colorization is inherently an ill-posed problem with multi-modal uncertain
 ## Getting Started
 1. Clone this repo:
 ```sh
-git clone https://github.com/ericsujw/InstColorization
+git clone https://github.com/hiteshsharma-github/InstColorization
 cd InstColorization
 ```
 2. Install [conda](https://www.anaconda.com/).
